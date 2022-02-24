@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: dosis-medium;
+}
+header{
+    background: hsl(218, 36%, 21%);
+    width: 100%;
+    float: left;
+
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+}
+.container .logo-area {
+
+}
+.container .logo-area a {
+    float: left;
+    
+    width: 15%;
+}
+.container nav li {
+    display: inline;
+    margin: 10px 50px;
+}
+.container ol li a {
+    color: white;
+    text-decoration: none;
+
+}
+nav {
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+.container .bar-section {
+    width: 15%;
+    overflow: hidden;
+
+}
+.container .bar-section button {
+    font-family: dosis-medium;
+    font-size: 15px;
+    background-color: #00FFF0;
+    padding: 5px;
+    border-radius: 7px;
+    margin-left: 57px;
+}
+.container .bar-section i {
+    color: white;
+    margin-left: 15px;
+    
+}
+main {
+    width: 100%;
+    background-color: #223049;
+    
+}
+main .container1 {
+    padding: 0px 50px 0px;
+    width: 70%;
+    margin: auto;
+}
+main .container1 section .left-side {
+    width: 60%;
+    float: left;
+
+}
+main .container1 section .left-side h1 {
+    color: white;
+    margin-top: 150px;
+    font-size: 30px;
+}
+main .container1 section .left-side p {
+    color: rgb(110, 110, 108);
+    margin: 40px 0;
+}
+main .container1 section .left-side .bt {
+    color: rgb(14, 13, 13);
+    background-color: #00FFF1;
+    padding: 10px 30px;
+    border-radius: .75em;
+}
+main .container1 section .left-side .bt2 {
+    background-color: #223049;
+    color: white;
+    margin: 40px;
+    padding: 10px 30px;
+    border-radius: .75em;
+}
+main .container1 section .right-side {
+    width: 40%;
+    overflow: hidden;
+    
+    margin-bottom: -150px;
+}
+main .container1 section .right-side img {
+    
+    margin: 105px 0 0 136px;
+}
+footer {
+
+}
